@@ -45,6 +45,16 @@
 • Parallelized data and model processing with Dask and AMP on HPC distributed systems using CUDA GPUs to optimize large-scale image analysis
 • Developed a Python Flask app integrating Dropbox APIs and Plotly to create interactive visualizations for academic research data
 
+### UST Global’s Blueconch Technologies Dec 2020 – Aug 2022
+### Software Engineer Pune, India
+• Developed scalable microservices for credit risk calculations, tracking contributions, withdrawals, earnings, and credit scores for 1M+ users
+• Designed backend services using Java SpringBoot, built CI/CD with Jenkins and Maven, improving deployment speed by 20%
+• Crafted algorithms for credit risk assessments via hash maps, binary search trees to get customer payment data retrieval
+• Led Redis migration for high-risk account processing, improving data access speeds and reducing processing time by 2 business days
+• Implemented encryption and OAuth2 to secure sensitive user data and ensure compliance with industry regulations per client requirements
+• Engineered APIs with XML and Kafka, processing 500K+ transactions daily, enhancing real-time data exchange for 50K users
+• Designed functional, regression, integration tests automation suites reducing 98% defect pre-release
+
 ## Recent Projects
 
 ### Real-Time Social Media Platform with Microservices Architecture Sept 2024
